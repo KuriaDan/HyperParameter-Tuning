@@ -1,1 +1,1 @@
-# HyperParameter-Tuning
+This is a simple notebook used in a presentation to Moringa School Data Science [Class](https://moringaschool.com/programs/data-science-course/) on different ways to tune the hperparameters on an LGBM model.
